@@ -1,0 +1,14 @@
+search_term,period,month_count,zero_month_count,data_status,index_jan,index_feb,index_mar,index_apr,index_may,index_jun,index_jul,index_aug,index_sep,index_oct,index_nov,index_dec,peak_month,peak_above_mean_pct,trough_month,trough_below_mean_pct,relative_series_mean
+hoof abscess,2021-11-01…2026-11-01,61,0,sufficient,81,81,93,96,97,103,117,126,120,105,99,82,Aug,26,Dec–Feb,19,16.0
+horse thrush,2021-11-01…2026-11-01,61,0,sufficient,87,98,93,107,104,99,103,106,104,103,110,84,Nov,10,Dec,16,12.9
+laminitis,2021-11-01…2026-11-01,61,0,sufficient,85,93,94,111,136,107,108,110,101,101,82,76,May,36,Dec,24,59.9
+white line disease,2021-11-01…2026-11-01,61,0,sufficient,74,104,111,140,122,126,94,87,96,92,87,70,Apr,40,Dec,30,17.3
+horse scratches,2021-11-01…2026-11-01,61,0,sufficient,67,69,76,106,287,99,106,97,91,78,72,58,May,187,Dec,42,9.3
+stocking up horse,2021-11-01…2026-11-01,61,56,sparse,0,0,0,0,488,0,0,0,244,0,203,244,May,388,Jan,100,0.1
+mud fever horse,2021-11-01…2026-11-01,61,60,sparse,0,0,1220,0,0,0,0,0,0,0,0,0,Mar,1120,Jan,100,0.0
+navicular,2021-11-01…2026-11-01,61,0,sufficient,85,104,103,108,102,106,101,97,106,109,95,84,Oct,9,Dec,16,71.1
+screwworm,2021-11-01…2026-11-01,61,31,sparse,25,25,15,25,45,525,145,185,60,60,79,15,Jun,425,Mar,85,4.0
+horse stocking up,2021-11-01…2026-11-01,61,55,sparse,0,0,0,0,0,200,0,222,399,0,111,266,Sep,299,Jan,100,0.9
+windpuffs,2021-11-01…2026-11-01,61,46,sparse,0,0,56,84,233,0,177,149,168,251,23,75,Oct,151,Jan,100,2.1
+horse sore feet,2021-11-01…2026-11-01,61,48,sparse,0,90,72,0,90,271,226,253,90,0,105,0,Jun,171,Jan,100,2.2
+horse red light therapy,2021-11-01…2026-11-01,61,30,sparse,101,84,69,188,160,166,83,62,57,75,92,65,Apr,88,Sep,43,13.3

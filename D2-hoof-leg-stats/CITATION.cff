@@ -1,0 +1,14 @@
+cff-version: 1.2.0
+message: "Cite the Hoof & Leg Problem Stats release with the metadata in this file."
+type: dataset
+title: "Nicker Hoof & Leg Problem Stats 2026"
+authors:
+  - name: Nicker
+  - family-names: Erin
+    given-names: Muhammed Veysel
+    orcid: "https://orcid.org/0009-0004-2368-3622"
+version: "1.0.0"
+date-released: "2026-11-26"
+license: CC-BY-4.0
+url: "https://nickerhorse.com/pages/horse-hoof-and-leg-health-statistics"
+doi: "10.5281/zenodo.24550837"

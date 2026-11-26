@@ -1,0 +1,28 @@
+{
+ "source": "COST-HOOF-CARE-2026.csv",
+ "updated": "2026-11-24",
+ "trim_usd": 61,
+ "trim_4keg_usd": 184,
+ "trim_reset_usd": 178,
+ "region": {
+  "far_west": {
+   "trim": 75,
+   "trim_4keg": 197
+  },
+  "central": {
+   "trim": 54,
+   "trim_4keg": 166
+  }
+ },
+ "interval_weeks": {
+  "barefoot": [
+   6,
+   8
+  ],
+  "shod": [
+   4,
+   6
+  ]
+ },
+ "source_text": "AFJ 2026 Farrier Business Practices survey (604 full-time farriers), BHS, UF/IFAS VM265"
+}
